@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm fareed Ullah Khan</h1>
 <h3 align="center">A Full Stack developer from pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fareedkhan56&label=Profile%20views&color=0e75b6&style=flat" alt="fareedkhan56" /> </p>
 
