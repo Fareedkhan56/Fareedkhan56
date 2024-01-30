@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm fareed Ullah Khan</h1>
 <h3 align="center">A Full Stack developer from pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAQlBMVEUEAgRA/ARB/wQAAARI/xAEAAQHEQQ86gkPOwoZeAlB+wQROg4TOQ4GDgRB7gcPPQoIGQY/4ApA8QYYcgoSPwkGGwXY/iNgAAAA30lEQVR4nO3YbXKDIBQF0GBKtGhiP/e/1SKd6Q4ymd6cg8Nv7vB4qKcTAAAAAAAAAAAAAPC06vlPffRa7qLWdV23bevT+hYZsV7m0srw8np+9GruoV5v00g4TbEJ56kdSotN2PewpVdpGScxdg8v8ziHvU6TE/ZD2EdwwvwqLUeria7SUaPRCdtvqwlOWEbA7E4TfeOP+/AY2QmzO01/a5uG1ITX91v3cfjMTFj3fV+W/ixf35Hf+Pn/aQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOA/+wFqnwa7sAEKAQAAAABJRU5ErkJggg==">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fareedkhan56&label=Profile%20views&color=0e75b6&style=flat" alt="fareedkhan56" /> </p>
 
